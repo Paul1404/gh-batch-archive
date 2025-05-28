@@ -6,6 +6,10 @@
 
 ---
 
+## Get started via a oneliner:
+   ```bash
+curl -sSL https://raw.githubusercontent.com/Paul1404/gh-batch-archive/main/gh-batch-archive.sh | bash
+   ```
 ## ✨ Features
 
 - **Batch archive or unarchive** any number of repositories
